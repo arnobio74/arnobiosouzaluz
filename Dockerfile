@@ -1,7 +1,7 @@
 FROM n8nio/n8n:latest
 
 ENV N8N_BASIC_AUTH_ACTIVE=true
-ENV N8N_BASIC_AUTH_USER=contato@arnobio.com.br
-ENV N8N_BASIC_AUTH_PASSWORD=MinhaSenhaSegura2026!
+ENV N8N_BASIC_AUTH_USER=arnobiosouzaluz@gmail.com
+ENV N8N_BASIC_AUTH_PASSWORD=Aralso@300174
 ENV N8N_HOST=0.0.0.0
 ENV NODE_ENV=production
